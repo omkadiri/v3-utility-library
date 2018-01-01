@@ -1,0 +1,21 @@
+{
+  "name": "google-markerclusterer-plus",
+  "version": "3.0.0",
+  "description": "The library creates and manages per-zoom-level clusters for large amounts of markers.",
+  "main": "src/markerclusterer.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/omkadiri/v3-utility-library/tree/master/markerclusterer"
+  },
+  "keywords": [
+    "google",
+    "map",
+    "marker",
+    "clusterer"
+  ],
+  "author": "Googlemap",
+  "license": "Apache-2.0"
+}
