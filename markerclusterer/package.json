@@ -1,5 +1,5 @@
 {
-  "name": "markerclusterer",
+  "name": "google-markerclusterer",
   "version": "3.0.0",
   "description": "The library creates and manages per-zoom-level clusters for large amounts of markers.",
   "main": "src/markerclusterer.js",
